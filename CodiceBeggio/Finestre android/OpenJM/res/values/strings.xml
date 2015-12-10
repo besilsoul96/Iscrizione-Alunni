@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OpenJM</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="accedi">ACCEDI</string>
+    <string name="registrati">REGISTRATI</string>
+    <string name="cancella">CANCELLA</string>
+    <string name="oppure">OPPURE</string>
+    <string name="title_activity_secret">SecretActivity</string>
+    <string name="benvenuto">Benvenuto!</string>
+    <string name="connessioneincorso">Connessione in corso&#8230;</string>
+    <string name="connessionefallita">Connessione Fallita</string>
+    <string name="userpasserrati">Username e/o Password errati!</string>
+    <string name="inserirePassword">Il campo Password &#232; vuoto!</string>
+    <string name="inserireUsername">Il campo Username &#232; vuoto!</string>
+    <string name="title_activity_registration">Registrazione</string>
+    <string name="name">Nome</string>
+    <string name="surname">Cognome</string>
+    <string name="email">E-Mail</string>
+    <string name="conferma">CONFERMA</string>
+    <string name="Visualizza">Visualizza</string>
+    <string name="VISUALIZZA">VISUALIZZA</string>
+    <string name="REFERENTE">REFERENTE</string>
+    <string name="GENITORE">GENITORE</string>
+
+</resources>
