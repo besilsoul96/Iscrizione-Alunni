@@ -1,0 +1,8 @@
+mkdir "nome file" - crea cartella 
+git clone "link" - clona contenuto dell'interfaccia di git nella cartella in locale
+cd "nome file" - entro nella cartella
+git add --all . - elenca tutte le modifiche fatte
+git commit -m "messaggio" - fa la fotografia delle modifiche
+git push - aggiorna le modifiche sul server
+ls - elenca il contenuto dei file
+git pull - aggiorna la repository in locale fondendo quello che è in locale più quello su server
